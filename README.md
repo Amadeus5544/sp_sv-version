@@ -11,3 +11,7 @@ This script allows you to specify the version of your server in `server.cfg`, an
 
 Enjoy displaying your server version to <span style="color:blue">all</span>
  players!
+```diff
++ Zöld szöveg
+- Piros szöveg
+```
