@@ -9,4 +9,4 @@ This script allows you to specify the version of your server in `server.cfg`, an
 2. Add the following to `server.cfg`: set server_version "Version of your server"
 3. **Run the script!**
 
-Enjoy displaying your server version to all players!
+Enjoy displaying your server version to <span style="green";>all</span> players!
