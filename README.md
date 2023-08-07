@@ -5,9 +5,9 @@ This script allows you to specify the version of your server in `server.cfg`, an
 
 ## Installation
 ```diff
-+1. **Install the script on your server**
-+2. Add the following to `server.cfg`: set server_version "Version of your server"
-+3. **Run the script!**
++ 1. **Install the script on your server**
++ 2. Add the following to `server.cfg`: set server_version "Version of your server"
++ 3. **Run the script!**
 ```
 
 
